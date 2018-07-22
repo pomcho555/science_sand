@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# usage: ./increase_picture.py hogehoge.jpg
+# This code is forked from https://github.com/bohemian916/deeplearning_tool/blob/master/increase_picture.py
 #
 
 import cv2
