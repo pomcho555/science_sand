@@ -51,7 +51,7 @@ def multiprocessing(n):
     return (default_timer() - start)
 
 if __name__ == '__main__':
-	print("Bench mark result:")
+    print("Bench mark result:")
     print("serial", serializing(256))
     print("thread", threading(256))
     print("multi process", multiprocessing(256))
